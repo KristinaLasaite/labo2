@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">iipraktinisdarbas</string>
+    <string name="btn_calculate_caption">Calculate</string>
+    <string name="char_selection">Chars</string>
+    <string name="numbers_selection">Numbers</string>
+    <string name="words_selection">Words</string>
+    <string name="addtext">Enter Text</string>
+    <string name="dff_format">Unexpected request</string>
+    <string-array name="spinner_array">
+        <item>Words</item>
+        <item>Chars</item>
+        <item>Numbers</item>
+    </string-array>
+</resources>
